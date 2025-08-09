@@ -5,6 +5,28 @@
 Seja bem-vindo(a) ao **Clone Duolingo**, um projeto construído com amor (e código) usando **Next.js**, **TypeScript** e **Tailwind CSS**. A seguir, você embarca em uma jornada por pastas, arquivos e configurações, com explicações leves e cheias de energia técnica!
 
 ---
+### Abaixar com ponentes
+npx create-next-app@latest (Abaixar o **TyperScript**, **Eslint**,**Tailwind CSS**,**App Router**, **Importa alias**(caso queira)  e criar um arquivo),
+npx shadcn-ui@latest init (Abaixar o **Next.js**),
+npx shadcn@latest add button (Abaixar os componentes do Next.js)
+---
+Estrutura de pastas e arquivos
+App (nome que você escolheu)
+│
+├── node_modules/               # 📦 Todas as dependências instaladas via npm
+├── public/                     # 🌍 Arquivos estáticos (imagens, ícones, fontes...)
+│
+├── .eslintrc.json               # ✅ Configuração do ESLint (padrões de código)
+├── next-env.d.ts                # 🛡️ Tipos automáticos do Next.js para TypeScript
+├── next.config.mjs               # ⚙️ Configurações personalizadas do Next.js
+├── package-lock.json             # 🔒 Versões travadas das dependências
+├── package.json                  # 📜 Lista de dependências e scripts do projeto
+├── postcss.config.js             # 🎨 Configuração do PostCSS (usado pelo Tailwind)
+├── README.md                     # 📖 Este arquivo que você está lendo
+├── tailwind.config.ts            # 🎨 Configurações do Tailwind CSS (cores, fontes, etc.)
+└── tsconfig.json                 # 🔍 Configurações do compilador TypeScript
+
+---
 
 ### 🌳 Raiz do Projeto — Onde tudo começa!
 
