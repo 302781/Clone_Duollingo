@@ -3,9 +3,11 @@
 ### 📦 Tour pela Estrutura de Arquivos do Projeto
 
 Seja bem-vindo(a) ao **Clone Duolingo**, um projeto construído com amor (e código) usando **Next.js**, **TypeScript** e **Tailwind CSS**. A seguir, você embarca em uma jornada por pastas, arquivos e configurações, com explicações leves e cheias de energia técnica!
-
 ---
-### Abaixar com ponentes
+Inspiraçao: **"https://youtu.be/dP75Khfy4s4?si=fAoe5BlUsFn75rVM"**
+Design:**https://www.figma.com/design/VhSNTE6TmxDwI7Z4o1kvLw/Site---Immerse-Me?node-id=0-1&t=XPtD09XEbRVEX72n-1**
+---
+### Abaixar componentes
 npx create-next-app@latest (Abaixar o **TyperScript**, **Eslint**,**Tailwind CSS**,**App Router**, **Importa alias**(caso queira)  e criar um arquivo),
 npx shadcn-ui@latest init (Abaixar o **Next.js**),
 npx shadcn@latest add button (Abaixar os componentes do Next.js)
@@ -25,7 +27,6 @@ App (nome que você escolheu)
 ├── README.md                     # 📖 Este arquivo que você está lendo
 ├── tailwind.config.ts            # 🎨 Configurações do Tailwind CSS (cores, fontes, etc.)
 └── tsconfig.json                 # 🔍 Configurações do compilador TypeScript
-
 ---
 
 ### 🌳 Raiz do Projeto — Onde tudo começa!
