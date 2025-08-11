@@ -17,8 +17,8 @@ const ButtonsPage = () =>{
             <Button variant="Super">Super</Button>
             <Button variant="SuperOutline">Esboço Super</Button>
             <Button variant="ghost">Ghost</Button>
-            <Button variant="sidebar">Sidebar</Button>
-            <Button variant="sidebarrOutline">Esboço Sidebar</Button>
+            <Button variant="Sidebar">Sidebar</Button>
+            <Button variant="SidebarOutline">Esboço Sidebar</Button>
         </div>
     );
 };

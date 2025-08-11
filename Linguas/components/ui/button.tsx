@@ -27,8 +27,9 @@ const buttonVariants = cva(
           "border bg-background shadow-xs hover:bg-accent hover:text-accent-foreground dark:bg-input/30 dark:border-input dark:hover:bg-input/50",
         secondary:
           "bg-secondary text-secondary-foreground shadow-xs hover:bg-secondary/80",
-        ghost:
+        Sidebar:
           "hover:bg-accent hover:text-accent-foreground dark:hover:bg-accent/50",
+        SidebarOutline: "bg-sky-500/15 text-sky-500 border-sky-300 border-2 hover:bg-sky-500/20 transition-none",
         link: "text-primary underline-offset-4 hover:underline",
         //premium: "bg-indigo-500 text-white"//tirar a troca de cor do botao la no variant da pagina "page"
       },
