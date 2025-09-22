@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=PK_TEST_Zmx1ZW50LXBpcGVmaXNoLTg2LmNsZXJrlmFjY291bnRzLmRldiQ
+# CLERK_SECRET_KEY=sk_test_7mQlSfazcuqovJsatRRHppz2KBrkkbEbuNY17qxTj8
